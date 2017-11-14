@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\bin\Release\SerialportSample.exe
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\bin\Release\SerialportSample.pdb
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Release\SerialportSample.SerialportSampleForm.resources
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Release\SerialportSample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Release\SerialportSample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Release\SerialportSample.exe
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Release\SerialportSample.pdb
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Release\SerialportSample.csprojResolveAssemblyReference.cache

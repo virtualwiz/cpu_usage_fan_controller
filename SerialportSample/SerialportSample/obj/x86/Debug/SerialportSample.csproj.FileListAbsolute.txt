@@ -1,0 +1,16 @@
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
+D:\My code\VS2010\C#\Test\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.exe
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.pdb
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\bin\Debug\SerialportSample.exe
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\bin\Debug\SerialportSample.pdb
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.SerialportSampleForm.resources
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SerialportSample\SerialportSample\obj\x86\Debug\SerialportSample.csproj.GenerateResource.Cache
